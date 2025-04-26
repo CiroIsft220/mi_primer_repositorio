@@ -1,4 +1,4 @@
 # mi_primer_repositorio
-Hola, soy Ciro. Este es mi primer repositorio en GitHub para la clase de Aplicativos Móviles.
- Estudiante de Tecnicatura de Desarrollo de Software.
- Me interesa aprender sobre bases de datos, programación, hardware, ciberseguridad, infraestructura de red, eentre otras cosas.
+Versión de Windows: Windows 10 pro MiniOS
+Versión de Github: git version 2.49.0.windows.1
+Editor de texto: Visual Studio Code
